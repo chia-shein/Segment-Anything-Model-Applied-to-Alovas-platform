@@ -10,11 +10,11 @@
         wget -q https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
     ```
 * Install others related library and dependencies:
-      ```shell
-          cd segment-anything; pip install -e .
-          pip install opencv-python pycocotools matplotlib onnxruntime onnx
-          sudo apt-get update
-          sudo apt-get install ffmpeg libsm6 libxext6  -y
-          sudo apt-get install -y libvips
-      ```
+   ```shell
+       cd segment-anything; pip install -e .
+       pip install opencv-python pycocotools matplotlib onnxruntime onnx
+       sudo apt-get update
+       sudo apt-get install ffmpeg libsm6 libxext6  -y
+       sudo apt-get install -y libvips
+   ```
  
