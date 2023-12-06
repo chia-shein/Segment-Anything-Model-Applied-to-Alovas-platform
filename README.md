@@ -1,4 +1,5 @@
 # Segment-Anything-Model-Applied-to-Alovas-platform
+[Alovas Platform](https://www.alovas.com/)
 [Meta Segment-anything github](https://github.com/facebookresearch/segment-anything)
 ### Auto Generate prompt
 #### Dependencies
