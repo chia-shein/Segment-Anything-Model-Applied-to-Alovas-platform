@@ -31,6 +31,7 @@
 ```shell
     python contour_prompt.py
 ```
+![](./readme_img/prompt.png)
 ### sam_results.ipynb
 
 ### algorithm_migrate_test.py
