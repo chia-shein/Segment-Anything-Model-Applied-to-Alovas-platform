@@ -33,5 +33,9 @@
 ```
 ![](./readme_img/prompt.png)
 ### sam_results.ipynb
-
+* This code uses the prompt generated from the contour_prompt.py code and inputs them into the segment anything model to guide the tissue segmentation area.
+```shell
+    python sam_results.ipynb
+```
+![](./readme_img/sam_result.png)
 ### algorithm_migrate_test.py
