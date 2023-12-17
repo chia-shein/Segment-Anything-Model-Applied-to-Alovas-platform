@@ -21,7 +21,7 @@
        sudo apt-get install -y libvips
    ```
 ## Codes
-* Because the medical images we used have a data privacy problem, so here I used the [Google dog images] for example.
+* Because the medical images we used have a data privacy problem, so here I used the [Google dog images](https://www.usatoday.com/story/news/nation/2023/11/29/dog-mystery-illness-boarding-pets/71740420007/) for example.
 ### contour_prompt.py
 * The original medical image from the hospital, the image format may include .svs .mrxs .tiff. So I use "Openslide" to help me read and process the pathology images.
 * I use "Opencv" to help me find the contour of the tissues inside the whole slide image, and generate their specific bounding box coordinates.
