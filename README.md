@@ -1,9 +1,10 @@
-# Segment-Anything-Model-Applied-to-Alovas-platform
-[Alovas Platform](https://www.alovas.com/)
+![image](https://github.com/chia-shein/Segment-Anything-Model-Applied-to-Alovas-platform/assets/60592114/c5e79e87-9610-48a2-9029-fc984474a61c)# Segment-Anything-Model-Applied-to-Alovas-platform
 
-[Meta Segment-anything github](https://github.com/facebookresearch/segment-anything)
-### Auto Generate prompt
-#### Dependencies
+* Automatically generated prompt which is used to guide the ["Segment Anything Model"](https://github.com/facebookresearch/segment-anything) to segment the target area.
+
+* Structure of the "Segment Anything Model" applied to [Alovas platform](https://www.alovas.com/).
+![](./readme_img/structure.png)
+## Dependencies
 * Pytorch-21.08-py3:latest
 * Download the meta segment_anything weight:
     ```shell
@@ -19,4 +20,5 @@
        sudo apt-get install ffmpeg libsm6 libxext6  -y
        sudo apt-get install -y libvips
    ```
+## Codes
  
