@@ -38,7 +38,7 @@
     python sam_results.ipynb
 ```
 ![](./readme_img/sam_result.png)
-### algorithm_migrate_test.py
+### alovas_sam.py
 * This code is only for the Alovas platform.
 
 ## Conclusion
