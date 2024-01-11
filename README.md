@@ -38,8 +38,9 @@
     python sam_results.ipynb
 ```
 ![](./readme_img/sam_result.png)
-### algorithm_migrate_test.py
+### alovas_sam.py
 * This code is only for the Alovas platform.
+![](./readme_img/annotation.jpg)
 
 ## Conclusion
 In the past, training models were often trained for a single task. I am very interested in this kind of model that can be used in various fields, and I am currently continuing to study it.
